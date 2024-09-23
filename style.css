@@ -1,3 +1,9 @@
 .body {
     text-decoration: dashed;
 }
+.footer {
+    height: 100px;
+    background-color: brown;
+    color: blanchedalmond;
+    text-align: right;
+}
